@@ -4,6 +4,8 @@ import java.io.FileWriter;
 import java.io.IOException;
 import java.io.PrintWriter;
 import java.util.Arrays;
+import java.util.Collections;
+import java.util.Random;
 import java.util.concurrent.ThreadLocalRandom;
 import java.util.stream.IntStream;
 
@@ -29,6 +31,40 @@ public class App {
         return null;
     }
 
+    public static void invertirInt(int[] array) {
+        for (int i = 0, j = array.length - 1; i < array.length / 2; i++, j--) {
+            int temp = array[i];
+            array[i] = array[j];
+            array[j] = temp;
+        }
+    }
+
+    public static int[] generarDatos2(int cantidad, int rangoMinimo, int rangoMaximo, ORDEN orden) {
+        int[] array = new int[cantidad];
+
+        switch (orden) {
+            case ALEATORIO: {
+                for (int i = 0; i < array.length; i++) {
+                    array[i] = new Random().nextInt(rangoMaximo - rangoMinimo) + rangoMinimo;
+                }
+            }
+            case ORDENADO:
+                for (int i = 0; i < array.length; i++) {
+                    array[i] = new Random().nextInt(rangoMaximo - rangoMinimo) + rangoMinimo;
+                }
+                Arrays.sort(array);
+            case INVERSO:
+                for (int i = 0; i < array.length; i++) {
+                    array[i] = new Random().nextInt(rangoMaximo - rangoMinimo) + rangoMinimo;
+                }
+                Arrays.sort(array);
+                invertirInt(array);
+        }
+
+        return array;
+
+    }
+
     public static void main(String[] args) throws IOException {
         testearVelocidadDeAlgoritmos(1000);
         testearVelocidadDeAlgoritmos(100000);
@@ -42,14 +78,14 @@ public class App {
         String[] nombres = {"Seleccion", "Burbujeo", "Insercion", "Seleccion Doble"};
 
 
-        try (FileWriter fileWriter = new FileWriter(cantidad + ".txt"); PrintWriter printWriter = new PrintWriter(fileWriter)) {
+        try (FileWriter fileWriter = new FileWriter(cantidad + "_v2" + ".txt"); PrintWriter printWriter = new PrintWriter(fileWriter)) {
             for (ORDEN orden : ORDEN.values()) {
                 for (int i = 0; i < algoritmos.length; i++) {
                     long sumaTiempo = 0;
                     System.out.println("Algoritmo: " + nombres[i] + " Cantidad a ordenar: " + cantidad + " Orden: " + orden);
                     printWriter.println("Algoritmo: " + nombres[i] + " Cantidad a ordenar: " + cantidad + " Orden: " + orden);
-                    for (int j = 0; j < 10; j++) {
-                        int[] array = generarDatos(cantidad, 0, cantidad, orden);
+                    for (int j = 0; j < 3; j++) {
+                        int[] array = generarDatos2(cantidad, 0, cantidad, orden);
 
                         long inicio = System.nanoTime();
 
