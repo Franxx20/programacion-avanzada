@@ -7,6 +7,7 @@ public class PorBurbujeo extends Ordenadora {
     // peor caso: n(n-1)/2 comparaciones
     // O(n * n)
 
+
     @Override
     public void ordenar(int[] array) {
 

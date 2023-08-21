@@ -1,0 +1,156 @@
+Algoritmo: Seleccion Cantidad a ordenar: 1000 Orden: ORDENADO
+1) Tiempo en nanoSegundos: 4478004
+2) Tiempo en nanoSegundos: 198172
+3) Tiempo en nanoSegundos: 1539585
+4) Tiempo en nanoSegundos: 1454774
+5) Tiempo en nanoSegundos: 107094
+6) Tiempo en nanoSegundos: 105529
+7) Tiempo en nanoSegundos: 104656
+8) Tiempo en nanoSegundos: 104238
+9) Tiempo en nanoSegundos: 103878
+10) Tiempo en nanoSegundos: 103927
+Promedio: 829985
+
+Algoritmo: Burbujeo Cantidad a ordenar: 1000 Orden: ORDENADO
+1) Tiempo en nanoSegundos: 15394
+2) Tiempo en nanoSegundos: 15259
+3) Tiempo en nanoSegundos: 15184
+4) Tiempo en nanoSegundos: 15217
+5) Tiempo en nanoSegundos: 15159
+6) Tiempo en nanoSegundos: 15183
+7) Tiempo en nanoSegundos: 15150
+8) Tiempo en nanoSegundos: 15145
+9) Tiempo en nanoSegundos: 15330
+10) Tiempo en nanoSegundos: 15339
+Promedio: 15236
+
+Algoritmo: insercion Cantidad a ordenar: 1000 Orden: ORDENADO
+1) Tiempo en nanoSegundos: 23992
+2) Tiempo en nanoSegundos: 23846
+3) Tiempo en nanoSegundos: 23853
+4) Tiempo en nanoSegundos: 23900
+5) Tiempo en nanoSegundos: 23840
+6) Tiempo en nanoSegundos: 24024
+7) Tiempo en nanoSegundos: 24128
+8) Tiempo en nanoSegundos: 24100
+9) Tiempo en nanoSegundos: 24040
+10) Tiempo en nanoSegundos: 23861
+Promedio: 23958
+
+Algoritmo: Seleccion Doble Cantidad a ordenar: 1000 Orden: ORDENADO
+1) Tiempo en nanoSegundos: 2059763
+2) Tiempo en nanoSegundos: 1077854
+3) Tiempo en nanoSegundos: 829165
+4) Tiempo en nanoSegundos: 1051323
+5) Tiempo en nanoSegundos: 1047930
+6) Tiempo en nanoSegundos: 1050005
+7) Tiempo en nanoSegundos: 66854
+8) Tiempo en nanoSegundos: 66600
+9) Tiempo en nanoSegundos: 65309
+10) Tiempo en nanoSegundos: 65070
+Promedio: 737987
+
+Algoritmo: Seleccion Cantidad a ordenar: 1000 Orden: INVERSO
+1) Tiempo en nanoSegundos: 2413144
+2) Tiempo en nanoSegundos: 1210824
+3) Tiempo en nanoSegundos: 488260
+4) Tiempo en nanoSegundos: 443414
+5) Tiempo en nanoSegundos: 441437
+6) Tiempo en nanoSegundos: 444144
+7) Tiempo en nanoSegundos: 442192
+8) Tiempo en nanoSegundos: 885928
+9) Tiempo en nanoSegundos: 878960
+10) Tiempo en nanoSegundos: 879390
+Promedio: 852769
+
+Algoritmo: Burbujeo Cantidad a ordenar: 1000 Orden: INVERSO
+1) Tiempo en nanoSegundos: 3751270
+2) Tiempo en nanoSegundos: 2426252
+3) Tiempo en nanoSegundos: 991161
+4) Tiempo en nanoSegundos: 986927
+5) Tiempo en nanoSegundos: 985260
+6) Tiempo en nanoSegundos: 1001123
+7) Tiempo en nanoSegundos: 985062
+8) Tiempo en nanoSegundos: 986819
+9) Tiempo en nanoSegundos: 986825
+10) Tiempo en nanoSegundos: 1025119
+Promedio: 1412581
+
+Algoritmo: insercion Cantidad a ordenar: 1000 Orden: INVERSO
+1) Tiempo en nanoSegundos: 2415467
+2) Tiempo en nanoSegundos: 1313523
+3) Tiempo en nanoSegundos: 922654
+4) Tiempo en nanoSegundos: 1317481
+5) Tiempo en nanoSegundos: 1321820
+6) Tiempo en nanoSegundos: 1356593
+7) Tiempo en nanoSegundos: 148067
+8) Tiempo en nanoSegundos: 146786
+9) Tiempo en nanoSegundos: 146096
+10) Tiempo en nanoSegundos: 145906
+Promedio: 923439
+
+Algoritmo: Seleccion Doble Cantidad a ordenar: 1000 Orden: INVERSO
+1) Tiempo en nanoSegundos: 1269913
+2) Tiempo en nanoSegundos: 991184
+3) Tiempo en nanoSegundos: 979138
+4) Tiempo en nanoSegundos: 979098
+5) Tiempo en nanoSegundos: 982857
+6) Tiempo en nanoSegundos: 568117
+7) Tiempo en nanoSegundos: 311654
+8) Tiempo en nanoSegundos: 311480
+9) Tiempo en nanoSegundos: 309960
+10) Tiempo en nanoSegundos: 309787
+Promedio: 701318
+
+Algoritmo: Seleccion Cantidad a ordenar: 1000 Orden: ALEATORIO
+1) Tiempo en nanoSegundos: 892380
+2) Tiempo en nanoSegundos: 887915
+3) Tiempo en nanoSegundos: 892881
+4) Tiempo en nanoSegundos: 888849
+5) Tiempo en nanoSegundos: 885880
+6) Tiempo en nanoSegundos: 891477
+7) Tiempo en nanoSegundos: 887465
+8) Tiempo en nanoSegundos: 890334
+9) Tiempo en nanoSegundos: 889357
+10) Tiempo en nanoSegundos: 933535
+Promedio: 894007
+
+Algoritmo: Burbujeo Cantidad a ordenar: 1000 Orden: ALEATORIO
+1) Tiempo en nanoSegundos: 1638762
+2) Tiempo en nanoSegundos: 1632082
+3) Tiempo en nanoSegundos: 1621177
+4) Tiempo en nanoSegundos: 1649334
+5) Tiempo en nanoSegundos: 1639461
+6) Tiempo en nanoSegundos: 1684940
+7) Tiempo en nanoSegundos: 1624938
+8) Tiempo en nanoSegundos: 1638477
+9) Tiempo en nanoSegundos: 1651132
+10) Tiempo en nanoSegundos: 1632361
+Promedio: 1641266
+
+Algoritmo: insercion Cantidad a ordenar: 1000 Orden: ALEATORIO
+1) Tiempo en nanoSegundos: 1587364
+2) Tiempo en nanoSegundos: 664680
+3) Tiempo en nanoSegundos: 339900
+4) Tiempo en nanoSegundos: 133461
+5) Tiempo en nanoSegundos: 118867
+6) Tiempo en nanoSegundos: 116792
+7) Tiempo en nanoSegundos: 116370
+8) Tiempo en nanoSegundos: 116974
+9) Tiempo en nanoSegundos: 116211
+10) Tiempo en nanoSegundos: 120573
+Promedio: 343119
+
+Algoritmo: Seleccion Doble Cantidad a ordenar: 1000 Orden: ALEATORIO
+1) Tiempo en nanoSegundos: 1743240
+2) Tiempo en nanoSegundos: 965674
+3) Tiempo en nanoSegundos: 952579
+4) Tiempo en nanoSegundos: 957012
+5) Tiempo en nanoSegundos: 995659
+6) Tiempo en nanoSegundos: 505727
+7) Tiempo en nanoSegundos: 340036
+8) Tiempo en nanoSegundos: 339213
+9) Tiempo en nanoSegundos: 340862
+10) Tiempo en nanoSegundos: 340297
+Promedio: 748029
+

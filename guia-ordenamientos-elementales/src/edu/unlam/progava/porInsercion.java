@@ -8,7 +8,7 @@ public class porInsercion extends Ordenadora {
     @Override
     public void ordenar(int[] array) {
         for (int i = 1; i < array.length; i++) {
-            int aux = array[i];
+            int extraido = array[i];
             int j=i-1;
 /*
             for (j = i-1; j >=0 ; j--) {
@@ -19,11 +19,11 @@ public class porInsercion extends Ordenadora {
                 }
             }
 */
-            while(j >=0 && array[j]>aux){
+            while(j >=0 && array[j]> extraido){
                 array[j+1] = array[j];
                 j--;
             }
-            array[j+1] = aux;
+            array[j+1] =  extraido;
         }
     }
 }
