@@ -1,0 +1,72 @@
+Algoritmo: Seleccion Cantidad a ordenar: 100000 Orden: ORDENADO
+1) Tiempo en nanoSegundos: 8560935053
+2) Tiempo en nanoSegundos: 8497744434
+3) Tiempo en nanoSegundos: 8530779812
+Promedio: 8529819766
+
+Algoritmo: Burbujeo Cantidad a ordenar: 100000 Orden: ORDENADO
+1) Tiempo en nanoSegundos: 74845
+2) Tiempo en nanoSegundos: 72368
+3) Tiempo en nanoSegundos: 72777
+Promedio: 73330
+
+Algoritmo: Insercion Cantidad a ordenar: 100000 Orden: ORDENADO
+1) Tiempo en nanoSegundos: 288819
+2) Tiempo en nanoSegundos: 156071
+3) Tiempo en nanoSegundos: 77281
+Promedio: 174057
+
+Algoritmo: Seleccion Doble Cantidad a ordenar: 100000 Orden: ORDENADO
+1) Tiempo en nanoSegundos: 7519926178
+2) Tiempo en nanoSegundos: 7503354799
+3) Tiempo en nanoSegundos: 7529288703
+Promedio: 7517523226
+
+Algoritmo: Seleccion Cantidad a ordenar: 100000 Orden: INVERSO
+1) Tiempo en nanoSegundos: 8498762020
+2) Tiempo en nanoSegundos: 8495127159
+3) Tiempo en nanoSegundos: 8489959614
+Promedio: 8494616264
+
+Algoritmo: Burbujeo Cantidad a ordenar: 100000 Orden: INVERSO
+1) Tiempo en nanoSegundos: 9669209825
+2) Tiempo en nanoSegundos: 9662763827
+3) Tiempo en nanoSegundos: 9645935363
+Promedio: 9659303005
+
+Algoritmo: Insercion Cantidad a ordenar: 100000 Orden: INVERSO
+1) Tiempo en nanoSegundos: 1112309687
+2) Tiempo en nanoSegundos: 1108424623
+3) Tiempo en nanoSegundos: 1114263637
+Promedio: 1111665982
+
+Algoritmo: Seleccion Doble Cantidad a ordenar: 100000 Orden: INVERSO
+1) Tiempo en nanoSegundos: 6951294295
+2) Tiempo en nanoSegundos: 6852543060
+3) Tiempo en nanoSegundos: 6863234251
+Promedio: 6889023868
+
+Algoritmo: Seleccion Cantidad a ordenar: 100000 Orden: ALEATORIO
+1) Tiempo en nanoSegundos: 8490624178
+2) Tiempo en nanoSegundos: 8484207795
+3) Tiempo en nanoSegundos: 8479870955
+Promedio: 8484900976
+
+Algoritmo: Burbujeo Cantidad a ordenar: 100000 Orden: ALEATORIO
+1) Tiempo en nanoSegundos: 16048537561
+2) Tiempo en nanoSegundos: 16009639145
+3) Tiempo en nanoSegundos: 16109884911
+Promedio: 16056020539
+
+Algoritmo: Insercion Cantidad a ordenar: 100000 Orden: ALEATORIO
+1) Tiempo en nanoSegundos: 556437603
+2) Tiempo en nanoSegundos: 557103695
+3) Tiempo en nanoSegundos: 553583293
+Promedio: 555708197
+
+Algoritmo: Seleccion Doble Cantidad a ordenar: 100000 Orden: ALEATORIO
+1) Tiempo en nanoSegundos: 777035039
+2) Tiempo en nanoSegundos: 770103667
+3) Tiempo en nanoSegundos: 770035103
+Promedio: 772391269
+
