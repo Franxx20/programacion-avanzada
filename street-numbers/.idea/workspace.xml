@@ -4,45 +4,99 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8d1a1bde-c088-4326-84dc-9fbcde358ae1" name="Changes" comment="" />
+    <list default="true" id="ba2e1130-85ec-4f95-8efd-dba1eeb398f3" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../clase_1/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../clase_1/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../clase_1/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../clase_1/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../clase_1/.idea/sonarlint/issuestore/6/9/6958111cea4c2ae926eeb6b49b6458367c0582b8" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../clase_1/.idea/sonarlint/issuestore/index.pb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../clase_1/.idea/sonarlint/securityhotspotstore/6/9/6958111cea4c2ae926eeb6b49b6458367c0582b8" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../clase_1/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../clase_1/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../clase_1/clase_1.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../clase_1/src/clase_1/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../guia-ordenamientos-elementales/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/../guia-ordenamientos-elementales/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../guia-ordenamientos-elementales/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/../guia-ordenamientos-elementales/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../guia-ordenamientos-elementales/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../guia-ordenamientos-elementales/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/edu/unlam/progava/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/edu/unlam/progava/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/edu/unlam/progava/StreetNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/edu/unlam/progava/StreetNumbers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/street-numbers.iml" beforeDir="false" afterPath="$PROJECT_DIR$/street-numbers.iml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="MacroExpansionManager">
-    <option name="directoryName" value="hiadjarv" />
+    <option name="directoryName" value="4788lol1" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 2
-}]]></component>
-  <component name="ProjectId" id="2UCveMYg5lGT6VixX2NYxViRfr0" />
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="2UJDTmWyYi2FiLpy79q9rb4J5Me" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;
   }
-}]]></component>
+}</component>
+  <component name="RunManager">
+    <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="edu.unlam.progava.App" />
+      <module name="street-numbers" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.unlam.progava.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.App" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="8d1a1bde-c088-4326-84dc-9fbcde358ae1" name="Changes" comment="" />
-      <created>1692456474267</created>
+      <changelist id="ba2e1130-85ec-4f95-8efd-dba1eeb398f3" name="Changes" comment="" />
+      <created>1692648805495</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1692456474267</updated>
+      <updated>1692648805495</updated>
     </task>
     <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/edu/unlam/progava/App.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

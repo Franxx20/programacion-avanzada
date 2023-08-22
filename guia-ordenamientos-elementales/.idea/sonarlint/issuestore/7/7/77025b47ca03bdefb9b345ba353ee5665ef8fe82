@@ -1,0 +1,20 @@
+
+>
+java:S1116"Remove this empty statement.(ôŸìúÿÿÿÿ8Ú‹Í¡1
+C
+java:S1168"&Return an empty array instead of null.(¥¹ï8‘Ú‹Í¡1
+m	java:S1283"LEnd this switch case with an unconditional break, return or throw statement.(Ï‘ó™ÿÿÿÿÿ8“Ú‹Í¡1
+h	java:S128."LEnd this switch case with an unconditional break, return or throw statement.(—ì®Ï8“Ú‹Í¡1
+;
+java:S21190"Save and re-use this "Random".(ºÆœÏ8”Ú‹Í¡1
+;
+java:S21195"Save and re-use this "Random".(ºÆœÏ8”Ú‹Í¡1
+;
+java:S2119:"Save and re-use this "Random".(ºÆœÏ8•Ú‹Í¡1
+W	java:S125H"<This block of commented-out lines of code should be removed.(¹¬º\8–Ú‹Í¡1
+Z	java:S106U"9Replace this use of System.out or System.err by a logger.(éû÷ûÿÿÿÿ8˜Ú‹Í¡1
+U	java:S106a"9Replace this use of System.out or System.err by a logger.(¡•ˆé8™Ú‹Í¡1
+Z	java:S106e"9Replace this use of System.out or System.err by a logger.(›ç‚îúÿÿÿÿ8™Ú‹Í¡1
+Z	java:S106g"9Replace this use of System.out or System.err by a logger.(ŞÒ—üÿÿÿÿ8šÚ‹Í¡1
+T
+java:S1128"2Remove this unused import 'java.util.Collections'.(¢³ïÓşÿÿÿÿ8Ä‘Í¡1
