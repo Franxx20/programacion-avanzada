@@ -4,7 +4,6 @@ import java.io.FileWriter;
 import java.io.IOException;
 import java.io.PrintWriter;
 import java.util.Arrays;
-import java.util.Collections;
 import java.util.Random;
 import java.util.concurrent.ThreadLocalRandom;
 import java.util.stream.IntStream;
@@ -12,7 +11,7 @@ import java.util.stream.IntStream;
 
 enum ORDEN {
     ORDENADO, INVERSO, ALEATORIO
-};
+}
 
 public class App {
 
@@ -28,7 +27,7 @@ public class App {
                 return IntStream.rangeClosed(rangoMinimo, rangoMaximo).limit(cantidad).map(x -> rangoMaximo - x + rangoMinimo - 1).toArray();
         }
 
-        return null;
+        return new int[1];
     }
 
     public static void invertirInt(int[] array) {
@@ -41,24 +40,28 @@ public class App {
 
     public static int[] generarDatos2(int cantidad, int rangoMinimo, int rangoMaximo, ORDEN orden) {
         int[] array = new int[cantidad];
+        Random random = new Random();
 
         switch (orden) {
             case ALEATORIO: {
                 for (int i = 0; i < array.length; i++) {
-                    array[i] = new Random().nextInt(rangoMaximo - rangoMinimo) + rangoMinimo;
+                    array[i] = random.nextInt(rangoMaximo - rangoMinimo) + rangoMinimo;
                 }
+                break;
             }
             case ORDENADO:
                 for (int i = 0; i < array.length; i++) {
-                    array[i] = new Random().nextInt(rangoMaximo - rangoMinimo) + rangoMinimo;
+                    array[i] = random.nextInt(rangoMaximo - rangoMinimo) + rangoMinimo;
                 }
                 Arrays.sort(array);
+                break;
             case INVERSO:
                 for (int i = 0; i < array.length; i++) {
-                    array[i] = new Random().nextInt(rangoMaximo - rangoMinimo) + rangoMinimo;
+                    array[i] = random.nextInt(rangoMaximo - rangoMinimo) + rangoMinimo;
                 }
                 Arrays.sort(array);
                 invertirInt(array);
+                break;
         }
 
         return array;
@@ -97,7 +100,7 @@ public class App {
                         System.out.println(j + 1 + ") " + "Tiempo en nanoSegundos: " + tiempo);
                         printWriter.println(j + 1 + ") " + "Tiempo en nanoSegundos: " + tiempo);
                     }
-                    long promedio = sumaTiempo / 10;
+                    long promedio = sumaTiempo / 3;
                     System.out.println("Promedio: " + promedio);
                     printWriter.println("Promedio: " + promedio);
                     System.out.println(" ");
