@@ -5,28 +5,23 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ba2e1130-85ec-4f95-8efd-dba1eeb398f3" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../clase_1/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../clase_1/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../clase_1/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../clase_1/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../clase_1/.idea/sonarlint/issuestore/6/9/6958111cea4c2ae926eeb6b49b6458367c0582b8" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../clase_1/.idea/sonarlint/issuestore/index.pb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../clase_1/.idea/sonarlint/securityhotspotstore/6/9/6958111cea4c2ae926eeb6b49b6458367c0582b8" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../clase_1/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../clase_1/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../clase_1/clase_1.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../clase_1/src/clase_1/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../guia-ordenamientos-elementales/.idea/sonarlint/issuestore/7/7/77025b47ca03bdefb9b345ba353ee5665ef8fe82" beforeDir="false" afterPath="$PROJECT_DIR$/../guia-ordenamientos-elementales/.idea/sonarlint/issuestore/7/7/77025b47ca03bdefb9b345ba353ee5665ef8fe82" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../guia-ordenamientos-elementales/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/../guia-ordenamientos-elementales/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../guia-ordenamientos-elementales/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/../guia-ordenamientos-elementales/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../guia-ordenamientos-elementales/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../guia-ordenamientos-elementales/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/5/354079a72b91a4280407c16a36f47d1986fd85a5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/7/77025b47ca03bdefb9b345ba353ee5665ef8fe82" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/e/8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/6/b6787d227bbdd625f13becbaa5b1c5e83b8d78d1" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/3/5/354079a72b91a4280407c16a36f47d1986fd85a5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/7/7/77025b47ca03bdefb9b345ba353ee5665ef8fe82" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/8/e/8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/b/6/b6787d227bbdd625f13becbaa5b1c5e83b8d78d1" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/edu/unlam/progava/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/edu/unlam/progava/App.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/edu/unlam/progava/StreetNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/edu/unlam/progava/StreetNumbers.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/street-numbers.iml" beforeDir="false" afterPath="$PROJECT_DIR$/street-numbers.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,13 +45,14 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "/home/pilum/Facultad/programacion-avanzada/street-numbers"
   }
-}</component>
+}]]></component>
   <component name="RunManager">
     <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="edu.unlam.progava.App" />

@@ -4,10 +4,10 @@ public class App {
     public static void main(String[] args) {
         StreetNumbers sn = new StreetNumbers();
         long inicio = System.nanoTime();
-        for (int i = 5; i < 1_000_000; i++) {
+        for (int i = 1; i < 1_000_000_000; i++) {
             Integer resultado = sn.cuadratica(i);
             if (resultado != -1) {
-                System.out.println(i + "," + resultado);
+                System.out.println(resultado + "," + i);
             }
         }
         long tiempo = System.nanoTime() - inicio;
