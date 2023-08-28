@@ -10,15 +10,7 @@ public class porInsercion extends Ordenadora {
         for (int i = 1; i < array.length; i++) {
             int extraido = array[i];
             int j=i-1;
-/*
-            for (j = i-1; j >=0 ; j--) {
-                if (array[j]>=aux)
-                    array[j + 1] = array[j];
-                else {
-                    break;
-                }
-            }
-*/
+
             while(j >=0 && array[j]> extraido){
                 array[j+1] = array[j];
                 j--;
