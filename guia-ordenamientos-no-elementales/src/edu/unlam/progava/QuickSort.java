@@ -27,7 +27,7 @@ public class QuickSort extends Ordenadora {
         intercambiar(array, mitad, fin - 1);
         int posPivote = fin - 1;
 
-        int i = inicio, j = posPivote - 1;
+        int i = inicio+1, j = posPivote - 1;
 
         while (i <= j) {
             while (array[i] < array[posPivote])
