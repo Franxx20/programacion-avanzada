@@ -1,0 +1,11 @@
+n x m casita
+a x b terreno
+
+una solución disponible
+
+version n²
+para cada i - a
+    para cada j - b
+        para cada ancho de casita
+            para cada alto de casita
+                ver si esta libre esa posición
