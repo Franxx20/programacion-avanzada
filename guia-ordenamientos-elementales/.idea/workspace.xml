@@ -4,6 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
+<<<<<<< Updated upstream
     <list default="true" id="86b9e543-5575-426a-8dfd-e2cdf689139c" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/4/04e3965499d553945bf2e24486c6e44530d781ed" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/4/1419ab10bb9453a71ec4379e6d954f9907d86a3b" beforeDir="false" />
@@ -28,6 +29,10 @@
       <change beforePath="$PROJECT_DIR$/../guia-ordenamientos-no-elementales/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/../guia-ordenamientos-no-elementales/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../street-numbers/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/../street-numbers/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../street-numbers/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../street-numbers/.idea/workspace.xml" afterDir="false" />
+=======
+    <list default="true" id="786effb9-3c08-40e5-8dab-f58a0bb02250" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+>>>>>>> Stashed changes
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
