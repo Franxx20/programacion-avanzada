@@ -2,8 +2,6 @@
 P
  src/edu/unlam/progava/ORDEN.java,2/8/288fe17ef115e7af11fe61e8251652eac5c7d980
 T
-$src/edu/unlam/progava/QuickSort.java,0/7/07e5bcafaa11190528419e29daf3946de5efcafe
-T
 $src/edu/unlam/progava/MergeSort.java,f/3/f3fa538c770d27aa89129b99707cece7a5886507
 9
 	10_v2.txt,5/6/5658e0c6284596de8399231bcd23741058f5569a
@@ -21,3 +19,5 @@ T
 $src/edu/unlam/progava/ShellSort.java,e/6/e63e5168dc962cc02fbe871642ab4c5078f1361d
 U
 %src/edu/unlam/progava/Ordenadora.java,f/5/f5fc8927add0c31f3040d3a24613741acb91f670
+T
+$src/edu/unlam/progava/QuickSort.java,0/7/07e5bcafaa11190528419e29daf3946de5efcafe

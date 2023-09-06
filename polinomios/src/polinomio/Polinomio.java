@@ -27,4 +27,11 @@ public abstract class Polinomio {
         }
         return cadena;
     }
+    protected double multSus(double x, int grado) {
+        double resultado = x;
+        for (int i = 1; i < grado; i++) {
+            resultado *= x;
+        }
+        return resultado;
+    }
 }

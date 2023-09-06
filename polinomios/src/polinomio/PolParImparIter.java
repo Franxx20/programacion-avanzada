@@ -23,11 +23,4 @@ public class PolParImparIter extends Polinomio {
     }
 
 
-    private double multSus(double x, int grado) {
-        double resultado = x;
-        for (int i = 1; i < grado; i++) {
-            resultado *= x;
-        }
-        return resultado;
-    }
 }

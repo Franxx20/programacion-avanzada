@@ -1,8 +1,6 @@
 
-_
-java:S2184"BCast one of the operands of this division operation to a "double".(¬æ”®8‹»º¦1
-g
-java:S2184"ECast one of the operands of this subtraction operation to a "double".(¾ÔËıüÿÿÿÿ8Œ»º¦1
-]	java:S125"<This block of commented-out lines of code should be removed.(ÅıÆ™ıÿÿÿÿ8Å•»º¦1
-I
-java:S1144",Remove this unused private "multSus" method.(œ†ıÕ8È•»º¦1
+X
+java:S2184"BCast one of the operands of this division operation to a "double".(¬æ”®
+`
+java:S2184"ECast one of the operands of this subtraction operation to a "double".(¾ÔËıüÿÿÿÿ
+V	java:S125"<This block of commented-out lines of code should be removed.(ÅıÆ™ıÿÿÿÿ

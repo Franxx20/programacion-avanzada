@@ -4,9 +4,9 @@ package polinomio;
 // then press Enter. You can now see whitespace characters in your code.
 public class Main {
     public static void main(String[] args) {
-        Polinomio pol = new PolParImparIter(new double[]{1, 2, 3, 4, 5, 6, 7, 8});
+        Polinomio pol = new PolHorner(new double[]{1, 2, 3, 4, 5, 6, 7, 8});
         System.out.println("polinomo " + pol);
-        double val = 2;
+        double val = 10000;
         System.out.println("evaluado a " + val + " = "+ pol.evaluar(val));
 
     }
