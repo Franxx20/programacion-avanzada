@@ -1,5 +1,26 @@
 
-Z
-java:S1854"8Remove this useless assignment to local variable "mMax".(”Æ„¨ÿÿÿÿÿ8‘Çòà¦1
-K
-java:S1481")Remove this unused "mMax" local variable.(”Æ„¨ÿÿÿÿÿ8“Çòà¦1
+d
+java:S1192"GDefine a constant instead of duplicating this literal "Dato " 18 times.(‰š´ö8—Ö‹Ô¨1
+U
+java:S1854"8Remove this useless assignment to local variable "mMin".(œÿ¶Í8ï•œÕ¨1
+F
+java:S1481")Remove this unused "mMin" local variable.(œÿ¶Í8ð•œÕ¨1
+]	java:S125"<This block of commented-out lines of code should be removed.(Ìºí úÿÿÿÿ8ººÕ¨1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(‰š´ö8žÖ‹Ô¨1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(‰š´ö8ŸÖ‹Ô¨1
+U	java:S106""9Replace this use of System.out or System.err by a logger.(‰š´ö8ŸÖ‹Ô¨1
+U	java:S106%"9Replace this use of System.out or System.err by a logger.(‰š´ö8‰ŠÔ¨1
+U	java:S106("9Replace this use of System.out or System.err by a logger.(‰š´ö8‰ŠÔ¨1
+U	java:S106+"9Replace this use of System.out or System.err by a logger.(‰š´ö8‰ŠÔ¨1
+U	java:S106."9Replace this use of System.out or System.err by a logger.(‰š´ö8‰ŠÔ¨1
+U	java:S1061"9Replace this use of System.out or System.err by a logger.(‰š´ö8‰ŠÔ¨1
+U	java:S1064"9Replace this use of System.out or System.err by a logger.(‰š´ö8ŠŠÔ¨1
+U	java:S1067"9Replace this use of System.out or System.err by a logger.(‰š´ö8ŠŠÔ¨1
+U	java:S106:"9Replace this use of System.out or System.err by a logger.(‰š´ö8ŠŠÔ¨1
+U	java:S106="9Replace this use of System.out or System.err by a logger.(‰š´ö8ŠŠÔ¨1
+U	java:S106@"9Replace this use of System.out or System.err by a logger.(‰š´ö8‹ŠÔ¨1
+U	java:S106C"9Replace this use of System.out or System.err by a logger.(‰š´ö8‹ŠÔ¨1
+U	java:S106F"9Replace this use of System.out or System.err by a logger.(‰š´ö8¡óŽÔ¨1
+U	java:S106I"9Replace this use of System.out or System.err by a logger.(‰š´ö8å²”Ô¨1
+U	java:S106L"9Replace this use of System.out or System.err by a logger.(‰š´ö8ôÂ‹Õ¨1
+U	java:S106O"9Replace this use of System.out or System.err by a logger.(‰š´ö8Ä§Õ¨1

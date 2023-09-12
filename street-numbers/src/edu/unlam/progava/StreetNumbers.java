@@ -30,7 +30,7 @@ public class StreetNumbers {
         int sumaDerecha = (int) ((Math.pow(n, 2) + n) / 2 - 1);
 
         int i;
-        for (i = 2; i < n & sumaIzquierda < sumaDerecha; i++) {
+        for (i = 2; i < n && sumaIzquierda < sumaDerecha; i++) {
             sumaIzquierda += i - 1;
             sumaDerecha -= i;
         }

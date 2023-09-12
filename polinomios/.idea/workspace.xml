@@ -5,9 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a84d4a4f-4f3f-4f85-b3b9-b1434abc220b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/polinomio/PolHorner.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../guia-ordenamientos-no-elementales/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/../guia-ordenamientos-no-elementales/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../guia-ordenamientos-no-elementales/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/../guia-ordenamientos-no-elementales/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/4/541ccaf7f0c84ce659eaa37495181530507825d0" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/9/697a4a79d161c0b9e7e56aebfe249afba642f816" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/e/7eba4ca81fc98d95b7c79bc3187cd637f0e46802" beforeDir="false" />
@@ -22,12 +19,12 @@
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/b/2/b21da0f3062a6b37562da89bf03d2b5a114db40f" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/e/7/e77433f30df0e5b0726e43ff31d666d948f1403a" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/polinomio/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/polinomio/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/polinomio/PolMultSus.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/polinomio/PolMultSus.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/polinomio/PolParImparIter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/polinomio/PolParImparIter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/polinomio/Polinomio.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/polinomio/Polinomio.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/polinomio/PolParImparRec.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/polinomio/PolParImparRec.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../street-numbers/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/../street-numbers/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../street-numbers/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/../street-numbers/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../street-numbers/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../street-numbers/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../street-numbers/src/edu/unlam/progava/StreetNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/../street-numbers/src/edu/unlam/progava/StreetNumbers.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,17 +53,17 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/home/pilum/facultad/programacion-avanzada/polinomios&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;/home/pilum/Facultad/programacion-avanzada/polinomios/src/Main.java&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "/home/pilum/Facultad/programacion-avanzada/monticulo-clase",
+    "onboarding.tips.debug.path": "/home/pilum/Facultad/programacion-avanzada/polinomios/src/Main.java"
   }
-}</component>
+}]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
