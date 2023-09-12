@@ -1,6 +1,6 @@
 
-r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(·ÉÿÖýÿÿÿÿ8ÁÜëÔ¨1
-T	java:S1068"9Replace this use of System.out or System.err by a logger.(ðš­H8ˆÝëÔ¨1
-Z	java:S106;"9Replace this use of System.out or System.err by a logger.(’ì¾ßÿÿÿÿÿ8ˆÝëÔ¨1
-T
-java:S1128"2Remove this unused import 'java.util.Collections'.(¢³ïÓþÿÿÿÿ8¥Æ…Õ¨1
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(·ÉÿÖýÿÿÿÿ8Ÿ¨÷Ö¨1
+o
+java:S37761"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(¿°ˆÛ8Ó¨÷Ö¨1
+T	java:S106i"9Replace this use of System.out or System.err by a logger.(ðš­H8Ö¨÷Ö¨1
+Z	java:S106l"9Replace this use of System.out or System.err by a logger.(’ì¾ßÿÿÿÿÿ8Ö¨÷Ö¨1

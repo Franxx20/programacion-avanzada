@@ -25,22 +25,71 @@ public abstract class Monticulo<T extends Comparable<T>> {
         return this.xs.isEmpty() ? null : this.xs.get(1);
     }
 
-    public abstract void encolar(T elemento);
 
-    public abstract T desencolar();
+    public void encolar(T elemento) {
+        xs.add(elemento);
 
-    protected static <T extends Comparable<T>> T min(T a, T b) {
-        if (a.compareTo(b) < 0) {
-            return a;
-        }
-        return b;
+        if (xs.size() < 3)
+            return;
+
+        int i = xs.size() - 1;
+        boolean desordenado;
+        do {
+            desordenado = false;
+            int padre = i / 2;
+
+            if (this.comparador.compare(elemento, xs.get(padre)) < 0) {
+                Collections.swap(this.xs, i, padre);
+                desordenado = true;
+            }
+            i = padre;
+        } while (desordenado && !esRaiz(elemento));
     }
 
-    protected static <T extends Comparable<T>> T max(T a, T b) {
-        if (a.compareTo(b) < 0) {
-            return b;
+    public T desencolar() {
+        if (xs.size() == 1)
+            return null;
+
+        T dato = xs.remove(1);
+
+        if (xs.size() <= 2)
+            return dato;
+
+        T ultimo = xs.remove(xs.size() - 1);
+        xs.add(1, ultimo);
+
+        int i = 1;
+
+        boolean desordenado;
+
+        if (xs.size() > 3) {
+            do {
+                desordenado = false;
+                if (condicionIntercambio(i)) {
+
+                    int indInter = this.comparador.compare(xs.get(i * 2), xs.get(i * 2 + 1)) <= 0 ? i * 2 : i * 2 + 1;
+                    Collections.swap(this.xs, i, indInter);
+                    desordenado = true;
+
+                    i = indInter;
+                }
+            } while (desordenado && poseeNodosHijos(i));
+        } else {
+            if ((this.comparador.compare(this.xs.get(1), this.xs.get(2))) >= 0) {
+                Collections.swap(this.xs, 1, 2);
+            }
         }
-        return a;
+
+
+        return dato;
+    }
+
+    private boolean poseeNodosHijos(int i) {
+        return i * 2 < this.xs.size() && i * 2 + 1 < this.xs.size();
+    }
+
+    private boolean condicionIntercambio(int i) {
+        return (this.comparador.compare(this.xs.get(i), xs.get(i * 2)) >= 0) || (this.comparador.compare(xs.get(i), xs.get(i * 2 + 1)) >= 0);
     }
 
     public void imprimirMonticulo() {
