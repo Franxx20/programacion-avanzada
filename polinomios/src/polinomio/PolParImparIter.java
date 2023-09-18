@@ -22,5 +22,10 @@ public class PolParImparIter extends Polinomio {
         return resultado;
     }
 
+    @Override
+    public String getNombre() {
+        return "Polinomio Par/Impar Iterativo";
+    }
+
 
 }

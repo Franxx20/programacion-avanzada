@@ -10,6 +10,11 @@ public class PolRec extends Polinomio {
         return evaluarRec(x,this.grado);
     }
 
+    @Override
+    public String getNombre() {
+        return "Polinomio Recursivo";
+    }
+
     private double evaluarRec(double x, int grado) {
         if (grado == 0)
             return 1;

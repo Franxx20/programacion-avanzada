@@ -10,6 +10,11 @@ public class PolHorner extends Polinomio {
         return 1 + x * metodoHornerRec2(x, 1);
     }
 
+    @Override
+    public String getNombre() {
+        return "Polinomio de Horner";
+    }
+
     private double metodoHornerRec2(double x, int actual) {
         if (actual > this.grado)
             return 0;

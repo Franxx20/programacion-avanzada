@@ -58,22 +58,24 @@ public abstract class Monticulo<T extends Comparable<T>> {
         T ultimo = xs.remove(xs.size() - 1);
         xs.add(1, ultimo);
 
-        int i = 1;
+        int ind_padre = 1;
 
         boolean desordenado;
 
         if (xs.size() > 3) {
             do {
                 desordenado = false;
-                if (condicionIntercambio(i)) {
+                if (condicionIntercambio(ind_padre)) {
+                    int ind_hijo_izq = ind_padre * 2;
+                    int ind_hijo_der = ind_padre * 2 + 1;
 
-                    int indInter = this.comparador.compare(xs.get(i * 2), xs.get(i * 2 + 1)) <= 0 ? i * 2 : i * 2 + 1;
-                    Collections.swap(this.xs, i, indInter);
+                    int indInter = this.comparador.compare(xs.get(ind_hijo_izq), xs.get(ind_hijo_der)) <= 0 ? ind_hijo_izq : ind_hijo_der;
+                    Collections.swap(this.xs, ind_padre, indInter);
                     desordenado = true;
 
-                    i = indInter;
+                    ind_padre = indInter;
                 }
-            } while (desordenado && poseeNodosHijos(i));
+            } while (desordenado && poseeNodosHijos(ind_padre));
         } else {
             if ((this.comparador.compare(this.xs.get(1), this.xs.get(2))) >= 0) {
                 Collections.swap(this.xs, 1, 2);

@@ -11,6 +11,10 @@ public abstract class Polinomio {
 
     }
 
+    public void setCoeficientes(double [] coeficientes){
+        this.coeficientes = coeficientes;
+        this.grado = coeficientes.length-1;
+    }
     public abstract double evaluar(double x);
 
     @Override
@@ -27,6 +31,8 @@ public abstract class Polinomio {
         }
         return cadena;
     }
+
+    public abstract String getNombre();
     protected double multSus(double x, int grado) {
         double resultado = x;
         for (int i = 1; i < grado; i++) {

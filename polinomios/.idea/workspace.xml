@@ -4,51 +4,58 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a84d4a4f-4f3f-4f85-b3b9-b1434abc220b" name="Changes" comment="">
+    <list default="true" id="85faa216-f239-43ee-8fe1-47ba94c403f9" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/polinomio/PolDinamicaRec.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../monticulo-clase/.idea/sonarlint/issuestore/0/6/06e25915c41893ea76ad4e27a55ec76fd10895fa" beforeDir="false" afterPath="$PROJECT_DIR$/../monticulo-clase/.idea/sonarlint/issuestore/0/6/06e25915c41893ea76ad4e27a55ec76fd10895fa" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../monticulo-clase/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/../monticulo-clase/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../monticulo-clase/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/../monticulo-clase/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../monticulo-clase/src/monticulo/Monticulo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../monticulo-clase/src/monticulo/Monticulo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/4/541ccaf7f0c84ce659eaa37495181530507825d0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/3/63dd9d28487430edaa5a0024394cc18a0e08bb52" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/9/697a4a79d161c0b9e7e56aebfe249afba642f816" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/e/7eba4ca81fc98d95b7c79bc3187cd637f0e46802" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/3/9300e65ddc738c2653931c4d4c9de275b7b7accc" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/2/b21da0f3062a6b37562da89bf03d2b5a114db40f" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/7/e77433f30df0e5b0726e43ff31d666d948f1403a" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/5/4/541ccaf7f0c84ce659eaa37495181530507825d0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/6/3/63dd9d28487430edaa5a0024394cc18a0e08bb52" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/6/9/697a4a79d161c0b9e7e56aebfe249afba642f816" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/7/e/7eba4ca81fc98d95b7c79bc3187cd637f0e46802" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/9/3/9300e65ddc738c2653931c4d4c9de275b7b7accc" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/b/2/b21da0f3062a6b37562da89bf03d2b5a114db40f" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/e/7/e77433f30df0e5b0726e43ff31d666d948f1403a" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgAva-TP-Polinomios.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/ProgAva-TP-Polinomios.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/polinomios.iml" beforeDir="false" afterPath="$PROJECT_DIR$/polinomios.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/polinomio/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/polinomio/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/polinomio/PolHorner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/polinomio/PolHorner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/polinomio/PolMultSus.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/polinomio/PolMultSus.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/polinomio/PolParImparIter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/polinomio/PolParImparIter.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/polinomio/PolParImparRec.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/polinomio/PolParImparRec.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../street-numbers/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/../street-numbers/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../street-numbers/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/../street-numbers/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../street-numbers/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../street-numbers/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../street-numbers/src/edu/unlam/progava/StreetNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/../street-numbers/src/edu/unlam/progava/StreetNumbers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/polinomio/PolRec.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/polinomio/PolRec.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/polinomio/Polinomio.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/polinomio/Polinomio.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="Class" />
-      </list>
-    </option>
-  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="MacroExpansionManager">
-    <option name="directoryName" value="efrstdz6" />
+    <option name="directoryName" value="nf3dvg87" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 6
 }</component>
-  <component name="ProjectId" id="2UzQ2p6Rpa5dQjixBfTCB5Gm2T4" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectId" id="2VY7LFrNyPUtxNLDOw1qLyUldau" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -57,55 +64,42 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "codeWithMe.voiceChat.enabledByDefault": "false",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "/home/pilum/Facultad/programacion-avanzada/monticulo-clase",
-    "onboarding.tips.debug.path": "/home/pilum/Facultad/programacion-avanzada/polinomios/src/Main.java"
+    "last_opened_file_path": "/home/pilum/Facultad/programacion-avanzada/polinomios"
   }
 }]]></component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="polinomio.Main" />
+      <module name="polinomios" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="polinomio.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="a84d4a4f-4f3f-4f85-b3b9-b1434abc220b" name="Changes" comment="" />
-      <created>1693939727237</created>
+      <changelist id="85faa216-f239-43ee-8fe1-47ba94c403f9" name="Changes" comment="" />
+      <created>1695001102250</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1693939727237</updated>
+      <updated>1695001102250</updated>
     </task>
     <servers />
   </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/polinomio/PolMultSus.java</url>
-          <line>8</line>
-          <properties class="polinomio.PolMultSus" method="evaluar">
-            <option name="EMULATED" value="true" />
-            <option name="WATCH_EXIT" value="false" />
-          </properties>
-          <option name="timeStamp" value="2" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/polinomio/PolRec.java</url>
-          <line>12</line>
-          <properties class="polinomio.PolRec" method="evaluarRec">
-            <option name="EMULATED" value="true" />
-            <option name="WATCH_EXIT" value="false" />
-          </properties>
-          <option name="timeStamp" value="4" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/polinomio/PolHorner.java</url>
-          <line>12</line>
-          <properties class="polinomio.PolHorner" method="metodoHornerRec2">
-            <option name="EMULATED" value="true" />
-            <option name="WATCH_EXIT" value="false" />
-          </properties>
-          <option name="timeStamp" value="7" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+  <component name="UnknownFeatures">
+    <option featureType="dependencySupport" implementationName="executable:docker" />
   </component>
 </project>

@@ -16,5 +16,10 @@ public class PolMultSus extends Polinomio {
         return resultado;
     }
 
+    @Override
+    public String getNombre() {
+        return "Polinomio Multiplicaciones sucesivas";
+    }
+
 
 }
