@@ -7,7 +7,7 @@ public class PolRec extends Polinomio {
 
     @Override
     public double evaluar(double x) {
-        return evaluarRec(x,this.grado);
+        return this.coeficientes[0] + evaluarRec(x, this.grado);
     }
 
     @Override
@@ -16,15 +16,12 @@ public class PolRec extends Polinomio {
     }
 
     private double evaluarRec(double x, int grado) {
-        if (grado == 0)
-            return 1;
+        if (grado == 1)
+            return x * this.coeficientes[1];
 
-        double resultado = 0;
+        double resultado = Math.pow(x, grado) * this.coeficientes[grado];
 
-        resultado += Math.pow(x, grado) * this.coeficientes[grado];
 
-//        evaluarRec(x, grado - 1);
-
-        return resultado + evaluarRec(x,grado-1);
+        return resultado + evaluarRec(x, grado - 1);
     }
 }

@@ -7,7 +7,7 @@ public class PolHorner extends Polinomio {
 
     @Override
     public double evaluar(double x) {
-        return 1 + x * metodoHornerRec2(x, 1);
+        return this.coeficientes[0] + x * metodoHornerRec2(x, 1);
     }
 
     @Override

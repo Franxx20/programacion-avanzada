@@ -11,7 +11,9 @@ public class Main {
 
         Integer[] array = {5,5,9,7,13,10,15,20,14,17,12,18,21,23,24,25};
 
+
         List<Integer> intList = Arrays.asList(array);
+
 
         Collections.shuffle(intList);
 
