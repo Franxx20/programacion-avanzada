@@ -5,20 +5,25 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="85faa216-f239-43ee-8fe1-47ba94c403f9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/polinomio/PolDinamicoMejorado.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../monticulo-clase/src/monticulo/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../monticulo-clase/src/monticulo/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgAva-TP-Polinomios.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/ProgAva-TP-Polinomios.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/polinomios.iml" beforeDir="false" afterPath="$PROJECT_DIR$/polinomios.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/polinomio/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/polinomio/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/polinomio/PolDinamicaRec.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/polinomio/PolHorner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/polinomio/PolHorner.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/polinomio/PolParImparIter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/polinomio/PolParImparIter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/polinomio/PolParImparRec.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/polinomio/PolParImparRec.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/polinomio/PolRec.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/polinomio/PolRec.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/polinomio/PolDinamico.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/polinomio/PolDinamicoMejorado.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/polinomio/PolHorner.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/polinomio/PolMultSus.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/polinomio/PolParImparIter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/polinomio/PolParImparRec.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/polinomio/PolRec.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/polinomio/Polinomio.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/polinomio/Polinomio.java" afterDir="false" />
     </list>
-    <list id="3140aff3-bdf6-45eb-bbfe-954095d8f655" name="Changes by Agustin" comment="">
-      <change beforePath="$PROJECT_DIR$/src/polinomio/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/polinomio/Main.java" afterDir="false" />
-    </list>
+    <list id="3140aff3-bdf6-45eb-bbfe-954095d8f655" name="Changes by Agustin" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -33,18 +38,6 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
-  </component>
-  <component name="LineStatusTrackerManager">
-    <file path="$PROJECT_DIR$/src/polinomio/Main.java">
-      <ranges>
-        <range start1="8" end1="12" start2="8" end2="9" changelist="85faa216-f239-43ee-8fe1-47ba94c403f9" />
-        <range start1="15" end1="18" start2="12" end2="14" changelist="85faa216-f239-43ee-8fe1-47ba94c403f9" />
-        <range start1="19" end1="20" start2="15" end2="15" changelist="85faa216-f239-43ee-8fe1-47ba94c403f9" />
-        <range start1="21" end1="22" start2="16" end2="16" changelist="3140aff3-bdf6-45eb-bbfe-954095d8f655" />
-        <range start1="32" end1="33" start2="26" end2="27" changelist="3140aff3-bdf6-45eb-bbfe-954095d8f655" />
-        <range start1="37" end1="38" start2="31" end2="32" changelist="3140aff3-bdf6-45eb-bbfe-954095d8f655" />
-      </ranges>
-    </file>
   </component>
   <component name="MacroExpansionManager">
     <option name="directoryName" value="nf3dvg87" />

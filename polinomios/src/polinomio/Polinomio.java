@@ -4,40 +4,34 @@ public abstract class Polinomio {
     protected int grado;
     protected double[] coeficientes;
 
-    public Polinomio(double[] coeficientes) {
+    public Polinomio(double[] coeficientes) throws IllegalArgumentException {
+        if (coeficientes.length == 0) {
+            throw new IllegalArgumentException("El array esta vacio");
+        }
+
         this.grado = coeficientes.length - 1;
-
         this.coeficientes = coeficientes;
-
     }
 
-    public void setCoeficientes(double [] coeficientes){
-        this.coeficientes = coeficientes;
-        this.grado = coeficientes.length-1;
-    }
+    public abstract String getNombre();
+
     public abstract double evaluar(double x);
 
     @Override
     public String toString() {
         String cadena = new String();
-        for (int coef = grado; coef >= 0; coef--) {
-            if (coef > 1) {
-                cadena += this.coeficientes[coef] + "*n^" + coef + " + ";
-            } else if (coef == 1) {
-                cadena += this.coeficientes[coef] + "*n + ";
-            } else {
-                cadena += this.coeficientes[coef];
-            }
+        for (int coef = grado; coef >= 2; coef--) {
+            cadena += this.coeficientes[coef] + "*x^" + coef + " + ";
         }
+
+        if (grado >= 1)
+            cadena += this.coeficientes[grado] + "*x + ";
+
+        if (grado >= 0)
+            cadena += this.coeficientes[grado];
+
         return cadena;
     }
 
-    public abstract String getNombre();
-    protected double multSus(double x, int grado) {
-        double resultado = x;
-        for (int i = 1; i < grado; i++) {
-            resultado *= x;
-        }
-        return resultado;
-    }
+    protected abstract double calcularPotencia(double x, int grado);
 }
