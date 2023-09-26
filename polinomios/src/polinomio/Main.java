@@ -12,6 +12,26 @@ public class Main {
 		testearVelocidadAlgoritmo(2, 500);
 		testearVelocidadAlgoritmo(2, 1000);
 		testearVelocidadAlgoritmo(2, 5000);
+		testearVelocidadAlgoritmo(10, 10);
+		testearVelocidadAlgoritmo(10, 100);
+		testearVelocidadAlgoritmo(10, 500);
+		testearVelocidadAlgoritmo(10, 1000);
+		testearVelocidadAlgoritmo(10, 5000);
+		testearVelocidadAlgoritmo(1000, 10);
+		testearVelocidadAlgoritmo(1000, 100);
+		testearVelocidadAlgoritmo(1000, 500);
+		testearVelocidadAlgoritmo(1000, 1000);
+		testearVelocidadAlgoritmo(1000, 5000);
+		testearVelocidadAlgoritmo(100000, 10);
+		testearVelocidadAlgoritmo(100000, 100);
+		testearVelocidadAlgoritmo(100000, 500);
+		testearVelocidadAlgoritmo(100000, 1000);
+		testearVelocidadAlgoritmo(100000, 5000);
+		testearVelocidadAlgoritmo(1000000, 10);
+		testearVelocidadAlgoritmo(1000000, 100);
+		testearVelocidadAlgoritmo(1000000, 500);
+		testearVelocidadAlgoritmo(1000000, 1000);
+		testearVelocidadAlgoritmo(1000000, 5000);
 	}
 
 	public static void testearVelocidadAlgoritmo(double val, int cantidad) throws IOException {
@@ -38,9 +58,9 @@ public class Main {
 				}
 				long promedio = sumaTiempo / 5;
 				System.out.println("evaluado a " + val + " = " + resultado);
-				System.out.println("Tiempo en nanoSegundos: " + promedio);
+				System.out.println("Promedio de tiempo en nanoSegundos: " + promedio);
 				printWriter.println("evaluado a " + val + " = " + resultado);
-				printWriter.println("Tiempo en nanoSegundos: " + promedio);
+				printWriter.println("Promedio de tiempo en nanoSegundos: " + promedio);
 
 				System.out.println(" ");
 				printWriter.println("");
