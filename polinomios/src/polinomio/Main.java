@@ -41,7 +41,7 @@ public class Main {
 				new PolinomioParImparRecursivo(array), new PolinomioParImparIterativo(array), new PolinomioPD(array),
 				new PolinomioPDMejorado(array), new PolinomioHorner(array), new PolinomioPow(array) };
 
-		try (FileWriter fileWriter = new FileWriter("archivos/out/" + cantidad + "_" + val + ".txt");
+		try (FileWriter fileWriter = new FileWriter("archivos/out/" + cantidad + "_" + val + ".xlsx");
 				PrintWriter printWriter = new PrintWriter(fileWriter)) {
 			for (Polinomio pol : polinomios) {
 				System.out.println(pol.getNombre());

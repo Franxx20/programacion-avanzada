@@ -1,32 +1,32 @@
 Polinomio-Multiplicaciones-sucesivas
 evaluado a 100000.0 = Infinity
-Promedio de tiempo en nanoSegundos: 478063
+Promedio de tiempo en nanoSegundos: 12688216
 
 Polinomio-Recursivo
 evaluado a 100000.0 = Infinity
-Promedio de tiempo en nanoSegundos: 977935
+Promedio de tiempo en nanoSegundos: 32115142
 
 Polinomio Par/Impar Recursivo
 evaluado a 100000.0 = Infinity
-Promedio de tiempo en nanoSegundos: 50768
+Promedio de tiempo en nanoSegundos: 277800
 
 Polinomio-Par/Impar-Iterativo
 evaluado a 100000.0 = Infinity
-Promedio de tiempo en nanoSegundos: 45422
+Promedio de tiempo en nanoSegundos: 236312
 
 Polinomio-Programacion-Dinamica
 evaluado a 100000.0 = Infinity
-Promedio de tiempo en nanoSegundos: 18622
+Promedio de tiempo en nanoSegundos: 90328
 
 Polinomio-Programacion-Dinamica-Mejorado
 evaluado a 100000.0 = Infinity
-Promedio de tiempo en nanoSegundos: 15243
+Promedio de tiempo en nanoSegundos: 143678
 
 Polinomio-de-Horner
 evaluado a 100000.0 = Infinity
-Promedio de tiempo en nanoSegundos: 7191
+Promedio de tiempo en nanoSegundos: 34846
 
 Polinomio-Pow
 evaluado a 100000.0 = Infinity
-Promedio de tiempo en nanoSegundos: 20907
+Promedio de tiempo en nanoSegundos: 107074
 
