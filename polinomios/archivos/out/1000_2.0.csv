@@ -1,0 +1,24 @@
+Polinomio-Multiplicaciones-sucesivas
+evaluado a,2.0,3.7489462762767223E301
+Promedio de tiempo en nanosegundos,680617
+Polinomio-Recursivo
+evaluado a,2.0,3.7489462762767223E301
+Promedio de tiempo en nanosegundos,1003228
+Polinomio Par/Impar Recursivo
+evaluado a,2.0,3.7489462762767223E301
+Promedio de tiempo en nanosegundos,75216
+Polinomio-Par/Impar-Iterativo
+evaluado a,2.0,3.7489462762767223E301
+Promedio de tiempo en nanosegundos,66509
+Polinomio-Programacion-Dinamica
+evaluado a,2.0,3.7489462762767223E301
+Promedio de tiempo en nanosegundos,113721
+Polinomio-Programacion-Dinamica-Mejorado
+evaluado a,2.0,3.7489462762767223E301
+Promedio de tiempo en nanosegundos,64488
+Polinomio-de-Horner
+evaluado a,2.0,3.748946276276722E301
+Promedio de tiempo en nanosegundos,11027
+Polinomio-Pow
+evaluado a,2.0,3.7489462762767223E301
+Promedio de tiempo en nanosegundos,44229
