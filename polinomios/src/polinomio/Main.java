@@ -66,14 +66,11 @@ public class Main {
                 System.out.println("evaluado a " + +val + resultado);
                 System.out.println("Promedio de tiempo en nanoSegundos: " + promedio);
                 dataLines.add(new String[]{"evaluado a", String.valueOf(val), String.valueOf(resultado)});
-//                printWriter.println("evaluado a " + "," + +val + "," + resultado);
                 dataLines.add(new String[]{"Promedio de tiempo en nanosegundos", String.valueOf(promedio)});
-//                printWriter.println("Promedio de tiempo en nanoSegundos: " + "," + promedio);
                 dataLines.stream().map(Main::convertToCSV).forEach(printWriter::println);
 
                 dataLines.clear();
                 System.out.println(" ");
-//                printWriter.println("");
             }
         }
 

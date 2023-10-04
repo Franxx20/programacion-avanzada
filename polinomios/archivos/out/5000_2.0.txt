@@ -1,0 +1,32 @@
+Polinomio-Multiplicaciones-sucesivas
+evaluado a 2.0 = Infinity
+Tiempo en nanoSegundos: 14224640
+
+Polinomio-Recursivo
+evaluado a 2.0 = Infinity
+Tiempo en nanoSegundos: 31722560
+
+Polinomio Par/Impar Recursivo
+evaluado a 2.0 = Infinity
+Tiempo en nanoSegundos: 385320
+
+Polinomio-Par/Impar-Iterativo
+evaluado a 2.0 = Infinity
+Tiempo en nanoSegundos: 395980
+
+Polinomio-Programacion-Dinamica
+evaluado a 2.0 = Infinity
+Tiempo en nanoSegundos: 403980
+
+Polinomio-Programacion-Dinamica-Mejorado
+evaluado a 2.0 = Infinity
+Tiempo en nanoSegundos: 372320
+
+Polinomio-de-Horner
+evaluado a 2.0 = Infinity
+Tiempo en nanoSegundos: 91800
+
+Polinomio-Pow
+evaluado a 2.0 = Infinity
+Tiempo en nanoSegundos: 195120
+

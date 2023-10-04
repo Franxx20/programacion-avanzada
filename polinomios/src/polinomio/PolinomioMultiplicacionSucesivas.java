@@ -16,7 +16,7 @@ public class PolinomioMultiplicacionSucesivas extends Polinomio {
 	public double evaluar(double x) {
 		double resultado = this.coeficientes[0]; // O(1)
 
-		// O(n) + O(n) -> O(n^2)
+		// O(n) * O(n) -> O(n^2)
 		for (int i = 1; i <= this.grado; i++) {
 			resultado += calcularPotencia(x, i) * this.coeficientes[i]; // O(n) * O(1) -> O(n)
 		}

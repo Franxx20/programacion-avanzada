@@ -1,0 +1,32 @@
+Polinomio-Multiplicaciones-sucesivas
+evaluado a 2.0 = 5.171030527471478E30
+Tiempo en nanoSegundos: 34380
+
+Polinomio-Recursivo
+evaluado a 2.0 = 5.171030527471478E30
+Tiempo en nanoSegundos: 46300
+
+Polinomio Par/Impar Recursivo
+evaluado a 2.0 = 5.171030527471478E30
+Tiempo en nanoSegundos: 31700
+
+Polinomio-Par/Impar-Iterativo
+evaluado a 2.0 = 5.171030527471478E30
+Tiempo en nanoSegundos: 23020
+
+Polinomio-Programacion-Dinamica
+evaluado a 2.0 = 5.171030527471478E30
+Tiempo en nanoSegundos: 17380
+
+Polinomio-Programacion-Dinamica-Mejorado
+evaluado a 2.0 = 5.171030527471478E30
+Tiempo en nanoSegundos: 8880
+
+Polinomio-de-Horner
+evaluado a 2.0 = 5.171030527471476E30
+Tiempo en nanoSegundos: 7020
+
+Polinomio-Pow
+evaluado a 2.0 = 5.171030527471478E30
+Tiempo en nanoSegundos: 3840
+

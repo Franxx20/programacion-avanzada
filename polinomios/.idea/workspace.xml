@@ -5,32 +5,34 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="85faa216-f239-43ee-8fe1-47ba94c403f9" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/archivos/out/1000_10.0.csv" beforeDir="false" afterPath="$PROJECT_DIR$/archivos/out/1000_10.0.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/archivos/out/1000_1000.0.csv" beforeDir="false" afterPath="$PROJECT_DIR$/archivos/out/1000_1000.0.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/archivos/out/1000_100000.0.csv" beforeDir="false" afterPath="$PROJECT_DIR$/archivos/out/1000_100000.0.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/archivos/out/1000_1000000.0.csv" beforeDir="false" afterPath="$PROJECT_DIR$/archivos/out/1000_1000000.0.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/archivos/out/1000_2.0.csv" beforeDir="false" afterPath="$PROJECT_DIR$/archivos/out/1000_2.0.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/archivos/out/100_10.0.csv" beforeDir="false" afterPath="$PROJECT_DIR$/archivos/out/100_10.0.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/archivos/out/100_1000.0.csv" beforeDir="false" afterPath="$PROJECT_DIR$/archivos/out/100_1000.0.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/archivos/out/100_100000.0.csv" beforeDir="false" afterPath="$PROJECT_DIR$/archivos/out/100_100000.0.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/archivos/out/100_1000000.0.csv" beforeDir="false" afterPath="$PROJECT_DIR$/archivos/out/100_1000000.0.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/archivos/out/100_2.0.csv" beforeDir="false" afterPath="$PROJECT_DIR$/archivos/out/100_2.0.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/archivos/out/10_10.0.csv" beforeDir="false" afterPath="$PROJECT_DIR$/archivos/out/10_10.0.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/archivos/out/10_1000.0.csv" beforeDir="false" afterPath="$PROJECT_DIR$/archivos/out/10_1000.0.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/archivos/out/10_100000.0.csv" beforeDir="false" afterPath="$PROJECT_DIR$/archivos/out/10_100000.0.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/archivos/out/10_1000000.0.csv" beforeDir="false" afterPath="$PROJECT_DIR$/archivos/out/10_1000000.0.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/archivos/out/10_2.0.csv" beforeDir="false" afterPath="$PROJECT_DIR$/archivos/out/10_2.0.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/archivos/out/5000_10.0.csv" beforeDir="false" afterPath="$PROJECT_DIR$/archivos/out/5000_10.0.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/archivos/out/5000_1000.0.csv" beforeDir="false" afterPath="$PROJECT_DIR$/archivos/out/5000_1000.0.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/archivos/out/5000_100000.0.csv" beforeDir="false" afterPath="$PROJECT_DIR$/archivos/out/5000_100000.0.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/archivos/out/5000_1000000.0.csv" beforeDir="false" afterPath="$PROJECT_DIR$/archivos/out/5000_1000000.0.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/archivos/out/5000_2.0.csv" beforeDir="false" afterPath="$PROJECT_DIR$/archivos/out/5000_2.0.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/archivos/out/500_10.0.csv" beforeDir="false" afterPath="$PROJECT_DIR$/archivos/out/500_10.0.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/archivos/out/500_1000.0.csv" beforeDir="false" afterPath="$PROJECT_DIR$/archivos/out/500_1000.0.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/archivos/out/500_100000.0.csv" beforeDir="false" afterPath="$PROJECT_DIR$/archivos/out/500_100000.0.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/archivos/out/500_1000000.0.csv" beforeDir="false" afterPath="$PROJECT_DIR$/archivos/out/500_1000000.0.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/archivos/out/500_2.0.csv" beforeDir="false" afterPath="$PROJECT_DIR$/archivos/out/500_2.0.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/polinomios/polinomio/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/polinomios/polinomio/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/polinomios/polinomio/Polinomio.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/polinomios/polinomio/Polinomio.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/polinomios/polinomio/PolinomioHorner.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/polinomios/polinomio/PolinomioHorner.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/polinomios/polinomio/PolinomioMultiplicacionSucesivas.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/polinomios/polinomio/PolinomioMultiplicacionSucesivas.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/polinomios/polinomio/PolinomioPD.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/polinomios/polinomio/PolinomioPD.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/polinomios/polinomio/PolinomioPDMejorado.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/polinomios/polinomio/PolinomioPDMejorado.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/polinomios/polinomio/PolinomioParImparIterativo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/polinomios/polinomio/PolinomioParImparIterativo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/polinomios/polinomio/PolinomioParImparRecursivo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/polinomios/polinomio/PolinomioParImparRecursivo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/polinomios/polinomio/PolinomioPow.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/polinomios/polinomio/PolinomioPow.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/polinomios/polinomio/PolinomioRecursivo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/polinomios/polinomio/PolinomioRecursivo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/polinomios.iml" beforeDir="false" afterPath="$PROJECT_DIR$/polinomios.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/polinomio/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/polinomio/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/polinomio/Polinomio.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/polinomio/Polinomio.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/polinomio/PolinomioHorner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/polinomio/PolinomioHorner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/polinomio/PolinomioMultiplicacionSucesivas.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/polinomio/PolinomioMultiplicacionSucesivas.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/polinomio/PolinomioPD.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/polinomio/PolinomioPD.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/polinomio/PolinomioPDMejorado.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/polinomio/PolinomioPDMejorado.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/polinomio/PolinomioParImparIterativo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/polinomio/PolinomioParImparIterativo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/polinomio/PolinomioParImparRecursivo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/polinomio/PolinomioParImparRecursivo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/polinomio/PolinomioPow.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/polinomio/PolinomioPow.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/polinomio/PolinomioRecursivo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/polinomio/PolinomioRecursivo.java" afterDir="false" />
     </list>
     <list id="3140aff3-bdf6-45eb-bbfe-954095d8f655" name="Changes by Agustin" comment="" />
     <option name="SHOW_DIALOG" value="false" />
@@ -61,6 +63,10 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Downloaded.Files.Path.Enabled": "false",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
@@ -72,7 +78,7 @@
     "project.structure.side.proportion": "0.2"
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RunManager" selected="JUnit.polinomios">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="polinomio.Main" />
       <module name="polinomios" />
@@ -86,8 +92,24 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="polinomios" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="polinomios" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="test" />
+      <option name="MAIN_CLASS_NAME" value="test.polinomios" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.polinomios" />
         <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
