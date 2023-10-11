@@ -4,36 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="85faa216-f239-43ee-8fe1-47ba94c403f9" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/polinomios/polinomio/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/polinomios/polinomio/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/polinomios/polinomio/Polinomio.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/polinomios/polinomio/Polinomio.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/polinomios/polinomio/PolinomioHorner.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/polinomios/polinomio/PolinomioHorner.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/polinomios/polinomio/PolinomioMultiplicacionSucesivas.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/polinomios/polinomio/PolinomioMultiplicacionSucesivas.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/polinomios/polinomio/PolinomioPD.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/polinomios/polinomio/PolinomioPD.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/polinomios/polinomio/PolinomioPDMejorado.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/polinomios/polinomio/PolinomioPDMejorado.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/polinomios/polinomio/PolinomioParImparIterativo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/polinomios/polinomio/PolinomioParImparIterativo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/polinomios/polinomio/PolinomioParImparRecursivo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/polinomios/polinomio/PolinomioParImparRecursivo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/polinomios/polinomio/PolinomioPow.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/polinomios/polinomio/PolinomioPow.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/polinomios/polinomio/PolinomioRecursivo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/polinomios/polinomio/PolinomioRecursivo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/polinomios.iml" beforeDir="false" afterPath="$PROJECT_DIR$/polinomios.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/polinomio/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/polinomio/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/polinomio/Polinomio.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/polinomio/Polinomio.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/polinomio/PolinomioHorner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/polinomio/PolinomioHorner.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/polinomio/PolinomioMultiplicacionSucesivas.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/polinomio/PolinomioMultiplicacionSucesivas.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/polinomio/PolinomioPD.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/polinomio/PolinomioPD.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/polinomio/PolinomioPDMejorado.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/polinomio/PolinomioPDMejorado.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/polinomio/PolinomioParImparIterativo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/polinomio/PolinomioParImparIterativo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/polinomio/PolinomioParImparRecursivo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/polinomio/PolinomioParImparRecursivo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/polinomio/PolinomioPow.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/polinomio/PolinomioPow.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/polinomio/PolinomioRecursivo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/polinomio/PolinomioRecursivo.java" afterDir="false" />
-    </list>
+    <list default="true" id="85faa216-f239-43ee-8fe1-47ba94c403f9" name="Changes" comment="" />
     <list id="3140aff3-bdf6-45eb-bbfe-954095d8f655" name="Changes by Agustin" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,7 +43,7 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
     "jdk.selected.JAVA_MODULE": "20",
-    "last_opened_file_path": "/home/pilum/Facultad/programacion-avanzada/polinomios",
+    "last_opened_file_path": "/home/pilum/Facultad/programacion-avanzada/Grafos",
     "project.structure.last.edited": "Problems",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.2"
