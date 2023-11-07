@@ -20,7 +20,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/../monticulo/src/monticulo/ColaDePrioridad.java" root0="SKIP_INSPECTION" />
@@ -54,7 +54,7 @@
     "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4": "",
     "create.test.in.the.same.root": "true",
     "full.screen.before.presentation.mode": "true",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "main",
     "last_opened_file_path": "/home/pilum/Facultad/programacion-avanzada/monticulo",
     "onboarding.tips.debug.path": "/home/pilum/Facultad/programacion-avanzada/Grafos/src/Main.java",
     "project.structure.last.edited": "SDKs",
