@@ -22,23 +22,24 @@ public class QuickSort extends Ordenadora {
     }
 
     private int particion(int[] array, int inicio, int fin) {
-        int mitad = (inicio + fin) / 2;
-        ordenarMediana(array, inicio, mitad, fin);
-        intercambiar(array, mitad, fin - 1);
-        int posPivote = fin - 1;
+        int mitad = (inicio + fin) / 2; // O(1)
+        ordenarMediana(array, inicio, mitad, fin); //O(1)
+        intercambiar(array, mitad, fin - 1); // O(1)
+        int posPivote = fin - 1; // O(1)
 
-        int i = inicio+1, j = posPivote - 1;
+        int i = inicio+1, j = posPivote - 1; // O(1)
 
-        while (i <= j) {
+        while (i <= j) // (n)
+  {
             while (array[i] < array[posPivote])
-                i++;
+                i++; // O(n)
             while (array[j] > array[posPivote])
-                j--;
+                j--; // O(n)
 
             if (i <= j) {
-                intercambiar(array, i, j);
-                i++;
-                j--;
+                intercambiar(array, i, j); // O(1)
+                i++; // O(1)
+                j--; // O(1)
             }
         }
         intercambiar(array, i, posPivote);
