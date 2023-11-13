@@ -20,4 +20,4 @@ $src/edu/unlam/progava/ShellSort.java,e/6/e63e5168dc962cc02fbe871642ab4c5078f13
 U
 %src/edu/unlam/progava/Ordenadora.java,f/5/f5fc8927add0c31f3040d3a24613741acb91f670
 T
-$src/edu/unlam/progava/QuickSort.java,0/7/07e5bcafaa11190528419e29daf3946de5efcafe
+$src/edu/unlam/progava/QuickSort.java,0\7\07e5bcafaa11190528419e29daf3946de5efcafe
