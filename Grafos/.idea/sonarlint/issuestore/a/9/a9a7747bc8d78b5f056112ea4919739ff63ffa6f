@@ -1,7 +1,23 @@
 
-o	java:S100@"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÐªÊŠýÿÿÿÿ8ã—ùÏ³1
-X	java:S125k"<This block of commented-out lines of code should be removed.(ëñÀ¬8å—ùÏ³1
-X	java:S125x"<This block of commented-out lines of code should be removed.(Žœ˜¥8Ðú˜Ð³1
-Y	java:S125“"<This block of commented-out lines of code should be removed.(šöñë8ç–™Ð³1
+o	java:S100="NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÐªÊŠýÿÿÿÿ8†Èöò¼1
+G	java:S106S"+Replace this use of System.out by a logger.(²Ú…ë8ˆÈöò¼1
+L	java:S106U"+Replace this use of System.out by a logger.(Þâ÷©øÿÿÿÿ8‰Èöò¼1
+G	java:S106W"+Replace this use of System.out by a logger.(ÀÿË³8‰Èöò¼1
+X	java:S125h"<This block of commented-out lines of code should be removed.(ëñÀ¬8ŠÈöò¼1
+X	java:S125t"<This block of commented-out lines of code should be removed.(Žœ˜¥8ŒÈöò¼1
+H	java:S106‹"+Replace this use of System.out by a logger.(¦·8Èöò¼1
+Y	java:S125"<This block of commented-out lines of code should be removed.(šöñë8ŽÈöò¼1
+H	java:S106¨"+Replace this use of System.out by a logger.(àßª¼8Èöò¼1
+H	java:S106©"+Replace this use of System.out by a logger.(ÀÿË³8Èöò¼1
+H
+java:S1197«"*Move the array designators [] to the type.(ç±¨·8Èöò¼1
+H	java:S106È"+Replace this use of System.out by a logger.(àßª¼8“Èöò¼1
+H	java:S106É"+Replace this use of System.out by a logger.(ÀÿË³8”Èöò¼1
+H	java:S106æ"+Replace this use of System.out by a logger.(àßª¼8˜Èöò¼1
+H	java:S106ç"+Replace this use of System.out by a logger.(ÀÿË³8˜Èöò¼1
+M	java:S106„"+Replace this use of System.out by a logger.(¨Ÿ½äûÿÿÿÿ8›Èöò¼1
+H	java:S106…"+Replace this use of System.out by a logger.(àßª¼8›Èöò¼1
+M	java:S106†"+Replace this use of System.out by a logger.(°Õàìùÿÿÿÿ8œÈöò¼1
+M	java:S106‡"+Replace this use of System.out by a logger.(Þâ÷©øÿÿÿÿ8œÈöò¼1
 [
-java:S1128">Remove this unused import 'java.util.zip.InflaterInputStream'.(Ò·€Î8êížÐ³1
+java:S1128">Remove this unused import 'java.util.zip.InflaterInputStream'.(Ò·€Î8¡Èöò¼1

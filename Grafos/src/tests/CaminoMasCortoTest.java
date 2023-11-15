@@ -1,9 +1,6 @@
 package tests;
 
-import grafos.Grafo;
-import grafos.GrafoRuntimeException;
-import grafos.MatrizAdyacente;
-import grafos.MatrizAdyacenteNoDirigida;
+import grafos.*;
 import grafos.algoritmos.caminomascorto.BellmanFord;
 import grafos.algoritmos.caminomascorto.Dijkstra;
 import org.junit.Assert;
@@ -115,7 +112,6 @@ public class CaminoMasCortoTest {
 
     }
 
-    @Test(expected = GrafoRuntimeException.class)
     public void bellmanFordMatrizDirigidaCicloNegativoExceptsError() {
 //        Double[][] matrizAdyacencia = {
 //                // a   b     s
@@ -145,6 +141,180 @@ public class CaminoMasCortoTest {
 
 
 //        assertArrayEquals(new double[]{5, 5, 7, 9, 8, 0}, distancias2, 0.01);
+
+    }
+
+    @Test
+    public void bellmanFord(){
+
+
+        Grafo grafo = new ListaAbyacente(10);
+        grafo.setArista(0,1,1);
+        grafo.setArista(1,2,1);
+        grafo.setArista(2,4,1);
+        grafo.setArista(4,3,-3);
+        grafo.setArista(3,2,1);
+        grafo.setArista(1,5,4);
+        grafo.setArista(1,6,4);
+        grafo.setArista(5,6,5);
+        grafo.setArista(6,7,4);
+        grafo.setArista(5,7,3);
+
+        BellmanFord bellmanFord = new BellmanFord();
+        double[] distanciasBF;
+
+        distanciasBF = bellmanFord.bellmanFord(grafo,0);
+
+        System.out.println(Arrays.toString(distanciasBF));
+        System.out.println(Arrays.toString(bellmanFord.getAntecesores()));
+
+        double resultados[] = new double[]{0.0,1.0,Double.NEGATIVE_INFINITY,Double.NEGATIVE_INFINITY,Double.NEGATIVE_INFINITY,5.0,5.0,8.0,Double.POSITIVE_INFINITY,Double.POSITIVE_INFINITY};
+        assertArrayEquals(resultados,distanciasBF,0.01);
+
+    }
+    @Test
+    public void bellmanFordDesde0(){
+
+
+        Grafo grafo = new ListaAbyacente(10);
+
+       grafo.setArista(0,1,5);
+       grafo.setArista(1,2,20);
+       grafo.setArista(1,5,30);
+       grafo.setArista(1,6,60);
+       grafo.setArista(2,3,10);
+       grafo.setArista(2,4,75);
+       grafo.setArista(3,2,-15);
+       grafo.setArista(4,9,100);
+       grafo.setArista (5,4,25);
+       grafo.setArista(5,6,5);
+       grafo.setArista(5,8,50);
+       grafo.setArista(6,7,-50);
+       grafo.setArista(7,8,-10);
+
+        BellmanFord bellmanFord = new BellmanFord();
+        double[] distanciasBF;
+
+        distanciasBF = bellmanFord.bellmanFord(grafo,0);
+
+        System.out.println(Arrays.toString(distanciasBF));
+        System.out.println(Arrays.toString(bellmanFord.getAntecesores()));
+
+
+    }
+    @Test
+    public void bellmanFordConFuenteAlcanzablePorCiCloNegativo(){
+
+
+        Grafo grafo = new ListaAbyacente(10);
+
+        grafo.setArista(0,1,5);
+        grafo.setArista(1,2,20);
+        grafo.setArista(1,5,30);
+        grafo.setArista(1,6,60);
+        grafo.setArista(2,3,10);
+        grafo.setArista(2,4,75);
+        grafo.setArista(3,2,-15);
+        grafo.setArista(4,9,100);
+        grafo.setArista (5,4,25);
+        grafo.setArista(5,6,5);
+        grafo.setArista(5,8,50);
+        grafo.setArista(6,7,-50);
+        grafo.setArista(7,8,-10);
+
+        BellmanFord bellmanFord = new BellmanFord();
+        double[] distanciasBF;
+
+        distanciasBF = bellmanFord.bellmanFord(grafo,9);
+
+        System.out.println(Arrays.toString(distanciasBF));
+        System.out.println(Arrays.toString(bellmanFord.getAntecesores()));
+
+
+    }
+    @Test
+    public void dijkstraEnCicloNegativo(){
+
+
+        Grafo grafo = new ListaAbyacente(10);
+
+        grafo.setArista(0,1,5);
+        grafo.setArista(1,2,20);
+        grafo.setArista(1,5,30);
+        grafo.setArista(1,6,60);
+        grafo.setArista(2,3,10);
+        grafo.setArista(2,4,75);
+        grafo.setArista(3,2,-15);
+        grafo.setArista(4,9,100);
+        grafo.setArista (5,4,25);
+        grafo.setArista(5,6,5);
+        grafo.setArista(5,8,50);
+        grafo.setArista(6,7,-50);
+        grafo.setArista(7,8,-10);
+
+        Dijkstra dijkstra = new Dijkstra();
+        double[] distanciasBF;
+
+        distanciasBF = dijkstra.dijkstra(grafo,0);
+
+        System.out.println("Distancias a " + 0);
+        System.out.println(Arrays.toString(distanciasBF));
+        System.out.println("Antecesores" );
+        System.out.println(Arrays.toString(dijkstra.getAntecesores()));
+
+
+    }
+    @Test
+    public void dijkstraVsBellmanFord(){
+
+
+        Grafo grafo = new ListaAbyacente(10);
+
+        grafo.setArista(0,1,5);
+        grafo.setArista(1,2,20);
+        grafo.setArista(1,5,30);
+        grafo.setArista(1,6,60);
+        grafo.setArista(2,3,10);
+        grafo.setArista(2,4,75);
+        grafo.setArista(3,2,-15);
+        grafo.setArista(4,9,100);
+        grafo.setArista (5,4,25);
+        grafo.setArista(5,6,5);
+        grafo.setArista(5,8,50);
+        grafo.setArista(6,7,-50);
+        grafo.setArista(7,8,-10);
+
+        Dijkstra dijkstra = new Dijkstra();
+        BellmanFord bellmanFord = new BellmanFord();
+
+        assertArrayEquals(bellmanFord.bellmanFord(grafo,0),dijkstra.dijkstra(grafo,0),0.001);
+
+    }
+
+    @Test
+    public void dijkstraVsBellmanFordNoNegativo(){
+
+
+        Grafo grafo = new ListaAbyacente(10);
+
+        grafo.setArista(0,1,5);
+        grafo.setArista(1,2,20);
+        grafo.setArista(1,5,30);
+        grafo.setArista(1,6,60);
+        grafo.setArista(2,3,10);
+        grafo.setArista(2,4,75);
+        grafo.setArista(3,2,15);
+        grafo.setArista(4,9,100);
+        grafo.setArista (5,4,25);
+        grafo.setArista(5,6,5);
+        grafo.setArista(5,8,50);
+        grafo.setArista(6,7,50);
+        grafo.setArista(7,8,10);
+
+        Dijkstra dijkstra = new Dijkstra();
+        BellmanFord bellmanFord = new BellmanFord();
+
+        assertArrayEquals(bellmanFord.bellmanFord(grafo,0),dijkstra.dijkstra(grafo,0),0.001);
 
     }
 }

@@ -1,0 +1,13 @@
+
+L	java:S106"+Replace this use of System.out by a logger.(÷ƒá¥øÿÿÿÿ8®ÌÑ¼1
+G	java:S106%"+Replace this use of System.out by a logger.(†İíñ8Ùí·Ñ¼1
+G	java:S106&"+Replace this use of System.out by a logger.(ûÖœ»8Ùí·Ñ¼1
+L	java:S106+"+Replace this use of System.out by a logger.(áÏ„üÿÿÿÿ8×‰¾ò¼1
+G	java:S1066"+Replace this use of System.out by a logger.(†İíñ8‹ùÀò¼1
+G	java:S1067"+Replace this use of System.out by a logger.(ûÖœ»8‡±Áò¼1
+F
+java:S1905A")Remove this unnecessary cast to "double".(ïËË8±ÌÑ¼1
+V
+java:S1128"9Remove this unused import 'grafos.GrafoRuntimeException'.(Úª¶™8¯¬¢Í¼1
+M
+java:S1128"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ8¯¬¢Í¼1
